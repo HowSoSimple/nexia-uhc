@@ -1,0 +1,1 @@
+fill -54 276 -56 56 276 54 minecraft:barrier

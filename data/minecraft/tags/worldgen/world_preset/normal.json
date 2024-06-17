@@ -1,0 +1,13 @@
+{
+  "values": [
+    "biome_preset:xxx-small",
+	"biome_preset:xx-small",
+	"biome_preset:extra-small",
+	"biome_preset:small",
+	"biome_preset:semi-small",
+	"biome_preset:semi-large",
+	"biome_preset:extra-large",
+	"biome_preset:xx-large",
+	"biome_preset:xxx-large"
+  ]
+}

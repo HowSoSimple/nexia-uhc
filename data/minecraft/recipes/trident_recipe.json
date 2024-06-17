@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " ##",
+      " H#",
+      "#  "
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:prismarine_crystals"
+      },
+      "H": {
+        "item": "minecraft:heart_of_the_sea"
+      }
+    },
+    "result": {
+      "id": "minecraft:trident",
+      "count": 1
+    }
+  }
+  

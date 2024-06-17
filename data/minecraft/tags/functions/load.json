@@ -1,0 +1,7 @@
+{
+    "values": [
+        "uhc:load",
+        "fast_leaf_decay:load",
+        "fast_leaf_decay:tick"
+    ]
+}
